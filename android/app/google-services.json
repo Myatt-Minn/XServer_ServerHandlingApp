@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345663521828",
+    "project_id": "xserver-2a8df",
+    "storage_bucket": "xserver-2a8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345663521828:android:bda3bd2a53d651b59d84b1",
+        "android_client_info": {
+          "package_name": "app.com.mm.xserver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsgu2G52_Yib1Ipfx-63BBnisvh99wBQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
